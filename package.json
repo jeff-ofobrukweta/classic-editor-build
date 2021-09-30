@@ -64,11 +64,11 @@
   },
   "author": "CKSource (http://cksource.com/)",
   "license": "GPL-2.0-or-later",
-  "homepage": "https://github.com/jeff-ofobrukweta/classic-editor-build/",
-  "bugs": "https://github.com/jeff-ofobrukweta/classic-editor-build/issues",
+  "homepage": "https://github.com/gradelyng/gradely-ckeditor/",
+  "bugs": "https://github.com/gradelyng/gradely-ckeditor/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeff-ofobrukweta/classic-editor-build.git",
+    "url": "https://github.com/gradelyng/gradely-ckeditor.git",
     "directory": "packages/ckeditor5-build-classic"
   },
   "scripts": {
